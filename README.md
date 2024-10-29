@@ -43,3 +43,14 @@ If any bugs or optimizations are found, feel free to create a pull request. **Al
 > **Warning**
 >
 > **This software is highly experimental and should be used at your own risk.** Although tested, this bot is experimental software and is provided on an "as is" and "as available" basis under the MIT license. We cannot guarantee the stability or reliability of this codebase and are not responsible for any damage or loss caused by its use. We do not give out warranties. 
+
+## Contact me
+If you need more technical support and development inquires, you can contact me.
+
+Telegram: [@dwlee918](https://t.me/@dwlee918)
+
+X: [@derricklee918](https://x.com/derricklee918)
+
+Discord: [@solGuru](https://discordapp.com/users/352387576017190913)
+
+Thanks.
